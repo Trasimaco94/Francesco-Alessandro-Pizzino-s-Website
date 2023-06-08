@@ -1,0 +1,55 @@
+body {
+    margin: 0%;
+}
+.introduction {
+    font-size: 100px;
+
+}
+.topbox {
+    background-color: rgba(196, 203, 250, 0.847);
+    border: solid 10px;
+    border-color: rgba(199, 231, 239, 0.988);
+    height: 600px;
+    margin: auto;
+    padding: 20px;
+    width: 800px;
+
+}
+.pic {
+    height: 300;
+    width: 250px;
+    
+}
+
+.middlebox {
+background-color: rgb(124, 205, 251);
+border: solid 10px;
+border-color: black;
+height: 850px;
+margin:auto;
+padding: 20px;
+width: 800px;
+}
+
+.exp { height: 250px;
+    width: 220px;
+
+}
+
+.ludo {
+height: 250px;
+width: 220px;
+}
+
+.poly { 
+height: 250px;
+width: 220px;
+}
+
+.cata {
+    height: 250px;
+}
+
+.link {
+    color: rgb(121, 80, 111);
+}
